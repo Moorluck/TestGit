@@ -9,7 +9,7 @@ function App() {
   const pokemonNames = [
     { id: nanoid(), name: "Salameche", type: "Feu", level: 12 },
     { id: nanoid(), name: "Carapuce", type: "Eau", level: 14 },
-    { id: nanoid(), name:"Bulbizarre", type: "Plante", level: 5 }
+    { id: nanoid(), name:"Bulbizarre", type: "Plante", level: 45 }
   ]
 
   return (
